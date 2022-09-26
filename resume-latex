@@ -1,0 +1,42 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\title{\Huge \color{purple}Resume}
+\author{Shruthi }
+\date{September 2022}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+\begin{itemize}
+
+    \item{\textbf {\color{blue}Name}:Shruthi}
+    \item{\textbf{\color{green}Address} {\color{yellow}:kalwacherla Dist-Peddapalli Mdl-Ramagiri}}
+    \item{\color{orange}college}:{\color{green}RGUKT}
+\end{itemize}
+\section{{\color{orange}{\Large\textbf{Merticulation}}}}
+\begin{tabular}{|c|c|}
+ \hline
+     Qualification & percentage \\
+     \hline
+     SSC & 10\\
+     \hline
+     PUC & 8.1\\
+     \hline
+\end{tabular}
+\section{\color{green}\large\textbf{Skills}}
+\begin{itemize}
+    \item {\color{yellow}\textbf communication}
+    \item{\color{blue}\textbf problem solving}
+\end{itemize}
+\section{\color{red}\large\textbf{hobbies}}
+\begin{itemize}
+    \item {\color{blue}\textbf{Singing}}
+    \item{\color{blue}\textbf{dancing}}
+     \item{\color{blue}\textbf{reading books}}
+\end{itemize}
+
+
+\end{document}
